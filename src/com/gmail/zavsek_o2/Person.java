@@ -1,10 +1,10 @@
 package com.gmail.zavsek_o2;
 
 public class Person {
-    public String firstName;
-    public String lastName;
-    public String city;
-    public String phoneNumber;
+    private String firstName;
+    private String lastName;
+    private String city;
+    private String phoneNumber;
 
 
     public Person(String firstName, String lastName, String city, String phoneNumber) {
